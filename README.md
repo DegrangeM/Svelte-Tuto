@@ -7,3 +7,6 @@ Suivre instructions.
 `npm run dev` pour coder et `npm run build` pour générer
 
 Ajouter `base: './',` à `vite.config.js.`.
+
+
+npm install ?
